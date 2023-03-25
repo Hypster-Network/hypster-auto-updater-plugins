@@ -1,0 +1,7 @@
+name: Hypster-Updater
+version: '${project.version}'
+main: root.hypster.Hypster_Updater
+api-version: 1.19
+authors: [axellFumioo]
+description: Automatic update for Player Server
+website: https://axellfumioo.my.id
